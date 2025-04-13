@@ -1,0 +1,26 @@
+﻿@model IEnumerable<InventoryManagementSystem.Models.Product>
+@{
+    ViewData["Title"] = "Inventory Summary";
+}
+
+<h2>Inventory Summary</h2>
+
+@{
+    var groupedProducts = Model.GroupBy(p => p.Category);
+}
+
+@foreach (var group in groupedProducts)
+{
+    var category = group.Key;
+    var totalProducts = group.Count();
+    var totalStock = group.Sum(p => p.Quantity) ?? 0;
+    var lowStockAlerts = group.Count(p => p.Quantity <= p.LowStockThreshold);
+
+    <h3>Category: @category</h3>
+    <p>Total Products: @totalProducts</p>
+    <p>Total Stock: @totalStock</p>
+    <p>Low Stock Alerts: @lowStockAlerts</p>
+    <hr />
+}
+
+<a asp-controller="Products" asp-action="List" class="btn btn-primary">View Product List</a>

@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="content">
+    <h2 id="Welcome">Welcome</h2>
+    <h2>Smart Inventory Management System</h2>
+    <p id="parra">Use the navigation to manage</p>
+    
+    <div class="button-container">
+        <a asp-controller="Products" asp-action="List" class="product-button">Go to Products</a>
+        <a asp-controller="Orders" asp-action="Create" class="order-button">Go to Orders</a>
+    </div>
+</div>

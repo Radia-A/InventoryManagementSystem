@@ -1,0 +1,62 @@
+@model IEnumerable<InventoryManagementSystem.Models.ApplicationUser>
+@{
+    ViewData["Title"] = "User Management";
+    var roles = (Dictionary<string, IList<string>>)ViewBag.UserRoles;
+}
+
+<h2>User Management</h2>
+
+@if (TempData["ToastMessage"] != null)
+{
+    <div class="toast-container position-fixed bottom-0 end-0 p-3">
+        <div class="toast show align-items-center text-bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="d-flex">
+                <div class="toast-body">
+                    @TempData["ToastMessage"]
+                </div>
+                <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+        </div>
+    </div>
+}
+
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Email</th>
+        <th>Full Name</th>
+        <th>Contact Info</th>
+        <th>Roles</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Email</td>
+            <td>@user.FullName</td>
+            <td>@user.ContactInfo</td>
+            <td>
+                @foreach (var role in roles[user.Id])
+                {
+                    <span class="badge bg-secondary">@role</span>
+                }
+            </td>
+            <td>
+                <form method="post" asp-action="Promote" asp-route-id="@user.Id" class="d-inline">
+                    <button type="submit" class="btn btn-sm btn-outline-success" @(roles[user.Id].Contains("Admin") ? "disabled" : "")>
+                        Promote to Admin
+                    </button>
+                </form>
+                <form method="post" asp-action="Demote" asp-route-id="@user.Id" class="d-inline">
+                    <button type="submit" class="btn btn-sm btn-outline-danger" @(roles[user.Id].Contains("User") ? "disabled" : "")>
+                        Demote to User
+                    </button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

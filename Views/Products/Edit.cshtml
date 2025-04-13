@@ -1,0 +1,48 @@
+﻿@model InventoryManagementSystem.Models.Product
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<div class="form-container">
+    <h2>Edit Product</h2>
+    <form asp-action="Edit" method="post">
+        <input type="hidden" name="Id" value="@Model.Id" />
+
+        <div class="form-group">
+            <label asp-for="Name">Name:</label>
+            <input asp-for="Name" class="form-control" required />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Category">Category:</label>
+            <input asp-for="Category" class="form-control" required />
+            <span asp-validation-for="Category" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Price">Price: $</label>
+            <input asp-for="Price" type="number" step="0.01" class="form-control" required />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Quantity">Quantity:</label>
+            <input asp-for="Quantity" type="number" class="form-control" required />
+            <span asp-validation-for="Quantity" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="LowStockThreshold">Low Stock Threshold:</label>
+            <input asp-for="LowStockThreshold" type="number" class="form-control" required />
+            <span asp-validation-for="LowStockThreshold" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Update</button>
+    </form>
+
+    <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this product?');">
+        <input type="hidden" name="id" value="@Model.Id" />
+        <button type="submit" class="btn btn-danger mt-3">Delete</button>
+    </form>
+</div>

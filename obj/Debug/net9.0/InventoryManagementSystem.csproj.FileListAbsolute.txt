@@ -1,0 +1,794 @@
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.runtime.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.endpoints.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.exe
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.deps.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.runtimeconfig.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.dll
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.pdb
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfoInputs.cache
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfo.cs
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cache
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cs
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.sourcelink.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/bundle/InventoryManagementSystem.styles.css
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/projectbundle/InventoryManagementSystem.bundle.scp.css
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mk6cf3y184-b9sayid5wm.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/8lg1i8t2om-61n19gt1b8.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/17ds7rdlmc-xtxxf3hu2r.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nxgi9bufh3-t1cqhe9u97.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mnyfzcp33h-c2jlpeoesf.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7o4551en7v-sejl45xvog.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1mxdtqb0ei-aexeepp0ev.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/qegjxzptq1-xvp3kq03qx.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tzo4s4clck-ausgxo2sd3.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0rdnw94qd3-22vffe00uq.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nido4lpen9-cosvhxvwiu.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/liuspb38so-qesaa3a1fm.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/j428xmqir2-fvhpjtyr6v.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3zv4njj3gb-tmc1g35s3z.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/58hg9b858c-fsbi9cje9m.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/4k6dkmvhpf-rxsg74s51o.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/i133tt6r4j-ee0r1s7dh0.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/zdockv62cl-q9ht133ko3.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lqha64csbd-jd9uben2k1.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1rlgiibur3-gye83jo8yx.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bcl21kjear-r4e9w2rdcm.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bogegg2sgp-wl58j5mj3v.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/x7h9f3o10j-c2oey78nd0.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/t9klq44nsc-d4r6k3f320.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0ucusx7rr0-j5mq2jizvt.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bgd0x5ekbk-keugtjm085.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/jesu3p6kbo-nvvlpmu67g.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/u6uvp4f253-zub09dkrxp.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l7h5a7tp39-pj5nd1wqec.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3tf40obk2m-43atpzeawx.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5ftlh7hm8o-v0zj4ognzu.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/vn9y2lonb4-ynyaa8k90p.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s0sxcrpus8-hrwsygsryq.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l4okmbqekp-c63t5i9ira.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lrtd4xn6bg-ft3s53vfgj.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/rb0vmvlnys-4094rpi4f9.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ylj7tsrp31-6pdc2jztkx.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/cndv09ifug-hd3gran6i8.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5fnywhxbgs-iovd86k7lj.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/iry6kzjzs2-ltid2c489k.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ry2prcaqx4-kbrnm935zg.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1erig57sso-8vyfqsqgz1.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ejnwvc75ei-y7v9cxd14o.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ro742naz6m-u9q1upor1n.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s2hn10xuam-h1s4sie4z3.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/dc22gihzk3-4d85u1mtcx.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/df0o2wf8s8-0j3bgjxly4.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/n40c5g916z-03hjc8e09r.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/441moowopu-48y08845bh.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/pm74k3s6g6-356vix0kms.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7a2euskjak-83jwlth58m.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/9kwje7ryei-mrlpezrjn3.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/sbyjy4i5e4-worgj0nhwm.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lvv3zd77ek-gk0pw8i4co.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/6vuqu3jk4i-x0q3zqp4vz.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/207aytwnqz-d6nrnj6jjx.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z57dne9gla-m9qm4tazc0.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/xqyuud7c5z-ttgo8qnofa.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ltvapk9dx6-jjsuc0puko.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/p4wy4sud35-9vr69e8ynj.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/fw0g35eywu-87fc7y1x7t.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tjrls2hvfg-mlv21k5csn.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5pdjfu7djo-1qi9vmgqhv.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z0qg9z5efz-1qi9vmgqhv.gz
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.build.InventoryManagementSystem.props
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.InventoryManagementSystem.props
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.InventoryManagementSystem.props
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.dll
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/refint/InventoryManagementSystem.dll
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.pdb
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.genruntimeconfig.cache
+C:/Users/kabir/COMP2139/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/ref/InventoryManagementSystem.dll
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfoInputs.cache
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfo.cs
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.csproj.CoreCompileInputs.cache
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cache
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cs
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.dll
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/refint/InventoryManagementSystem.dll
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.pdb
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.Development.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.runtime.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.endpoints.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.exe
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.deps.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.runtimeconfig.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.dll
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.pdb
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/bundle/InventoryManagementSystem.styles.css
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/projectbundle/InventoryManagementSystem.bundle.scp.css
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/8lg1i8t2om-61n19gt1b8.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/17ds7rdlmc-xtxxf3hu2r.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nxgi9bufh3-t1cqhe9u97.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mnyfzcp33h-c2jlpeoesf.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7o4551en7v-sejl45xvog.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1mxdtqb0ei-aexeepp0ev.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/qegjxzptq1-xvp3kq03qx.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tzo4s4clck-ausgxo2sd3.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0rdnw94qd3-22vffe00uq.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nido4lpen9-cosvhxvwiu.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/liuspb38so-qesaa3a1fm.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/j428xmqir2-fvhpjtyr6v.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3zv4njj3gb-tmc1g35s3z.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/58hg9b858c-fsbi9cje9m.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/4k6dkmvhpf-rxsg74s51o.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/i133tt6r4j-ee0r1s7dh0.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/zdockv62cl-q9ht133ko3.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lqha64csbd-jd9uben2k1.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1rlgiibur3-gye83jo8yx.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bcl21kjear-r4e9w2rdcm.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bogegg2sgp-wl58j5mj3v.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/x7h9f3o10j-c2oey78nd0.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/t9klq44nsc-d4r6k3f320.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0ucusx7rr0-j5mq2jizvt.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bgd0x5ekbk-keugtjm085.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/jesu3p6kbo-nvvlpmu67g.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/u6uvp4f253-zub09dkrxp.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l7h5a7tp39-pj5nd1wqec.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3tf40obk2m-43atpzeawx.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5ftlh7hm8o-v0zj4ognzu.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/vn9y2lonb4-ynyaa8k90p.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s0sxcrpus8-hrwsygsryq.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l4okmbqekp-c63t5i9ira.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lrtd4xn6bg-ft3s53vfgj.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/rb0vmvlnys-4094rpi4f9.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ylj7tsrp31-6pdc2jztkx.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/cndv09ifug-hd3gran6i8.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5fnywhxbgs-iovd86k7lj.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/iry6kzjzs2-ltid2c489k.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ry2prcaqx4-kbrnm935zg.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1erig57sso-8vyfqsqgz1.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ejnwvc75ei-y7v9cxd14o.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ro742naz6m-u9q1upor1n.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s2hn10xuam-h1s4sie4z3.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/dc22gihzk3-4d85u1mtcx.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/df0o2wf8s8-0j3bgjxly4.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/n40c5g916z-03hjc8e09r.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/441moowopu-48y08845bh.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/pm74k3s6g6-356vix0kms.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7a2euskjak-83jwlth58m.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/9kwje7ryei-mrlpezrjn3.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/sbyjy4i5e4-worgj0nhwm.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lvv3zd77ek-gk0pw8i4co.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/6vuqu3jk4i-x0q3zqp4vz.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/207aytwnqz-d6nrnj6jjx.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z57dne9gla-m9qm4tazc0.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/xqyuud7c5z-ttgo8qnofa.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ltvapk9dx6-jjsuc0puko.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/p4wy4sud35-9vr69e8ynj.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/fw0g35eywu-87fc7y1x7t.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tjrls2hvfg-mlv21k5csn.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5pdjfu7djo-1qi9vmgqhv.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z0qg9z5efz-1qi9vmgqhv.gz
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.development.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.build.InventoryManagementSystem.props
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.InventoryManagementSystem.props
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.InventoryManagementSystem.props
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.pack.json
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.genruntimeconfig.cache
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/ref/InventoryManagementSystem.dll
+W:/Semester 4-2025/Comp 2139 Web Application Development/Assignment/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mk6cf3y184-xa16iu7ldx.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.runtime.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.endpoints.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.exe
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.deps.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.runtimeconfig.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.pdb
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Npgsql.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.csproj.AssemblyReference.cache
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfoInputs.cache
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfo.cs
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cache
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cs
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/bundle/InventoryManagementSystem.styles.css
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/projectbundle/InventoryManagementSystem.bundle.scp.css
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mk6cf3y184-tqahir2813.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/8lg1i8t2om-61n19gt1b8.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/17ds7rdlmc-xtxxf3hu2r.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nxgi9bufh3-t1cqhe9u97.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mnyfzcp33h-c2jlpeoesf.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7o4551en7v-sejl45xvog.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1mxdtqb0ei-aexeepp0ev.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/qegjxzptq1-xvp3kq03qx.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tzo4s4clck-ausgxo2sd3.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0rdnw94qd3-22vffe00uq.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nido4lpen9-cosvhxvwiu.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/liuspb38so-qesaa3a1fm.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/j428xmqir2-fvhpjtyr6v.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3zv4njj3gb-tmc1g35s3z.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/58hg9b858c-fsbi9cje9m.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/4k6dkmvhpf-rxsg74s51o.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/i133tt6r4j-ee0r1s7dh0.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/zdockv62cl-q9ht133ko3.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lqha64csbd-jd9uben2k1.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1rlgiibur3-gye83jo8yx.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bcl21kjear-r4e9w2rdcm.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bogegg2sgp-wl58j5mj3v.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/x7h9f3o10j-c2oey78nd0.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/t9klq44nsc-d4r6k3f320.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0ucusx7rr0-j5mq2jizvt.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bgd0x5ekbk-keugtjm085.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/jesu3p6kbo-nvvlpmu67g.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/u6uvp4f253-zub09dkrxp.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l7h5a7tp39-pj5nd1wqec.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3tf40obk2m-43atpzeawx.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5ftlh7hm8o-v0zj4ognzu.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/vn9y2lonb4-ynyaa8k90p.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s0sxcrpus8-hrwsygsryq.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l4okmbqekp-c63t5i9ira.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lrtd4xn6bg-ft3s53vfgj.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/rb0vmvlnys-4094rpi4f9.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ylj7tsrp31-6pdc2jztkx.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/cndv09ifug-hd3gran6i8.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5fnywhxbgs-iovd86k7lj.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/iry6kzjzs2-ltid2c489k.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ry2prcaqx4-kbrnm935zg.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1erig57sso-8vyfqsqgz1.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ejnwvc75ei-y7v9cxd14o.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ro742naz6m-u9q1upor1n.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s2hn10xuam-h1s4sie4z3.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/dc22gihzk3-4d85u1mtcx.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/df0o2wf8s8-0j3bgjxly4.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/n40c5g916z-03hjc8e09r.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/441moowopu-48y08845bh.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/pm74k3s6g6-356vix0kms.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7a2euskjak-83jwlth58m.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/9kwje7ryei-mrlpezrjn3.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/sbyjy4i5e4-worgj0nhwm.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lvv3zd77ek-gk0pw8i4co.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/6vuqu3jk4i-x0q3zqp4vz.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/207aytwnqz-d6nrnj6jjx.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z57dne9gla-m9qm4tazc0.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/xqyuud7c5z-ttgo8qnofa.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ltvapk9dx6-jjsuc0puko.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/p4wy4sud35-9vr69e8ynj.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/fw0g35eywu-87fc7y1x7t.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tjrls2hvfg-mlv21k5csn.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5pdjfu7djo-1qi9vmgqhv.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z0qg9z5efz-1qi9vmgqhv.gz
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.build.InventoryManagementSystem.props
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.InventoryManagementSystem.props
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.InventoryManagementSystem.props
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/Inventor.EBF2E7CF.Up2Date
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/refint/InventoryManagementSystem.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.pdb
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.genruntimeconfig.cache
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/ref/InventoryManagementSystem.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Humanizer.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Mono.TextTemplating.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.CodeDom.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.Convention.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.Hosting.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.Runtime.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.TypedParts.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Text.Json.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/radia/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.Development.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/appsettings.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.runtime.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.staticwebassets.endpoints.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.deps.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.runtimeconfig.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/InventoryManagementSystem.pdb
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Humanizer.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Npgsql.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.CodeDom.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.csproj.AssemblyReference.cache
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfoInputs.cache
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.AssemblyInfo.cs
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cache
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.RazorAssemblyInfo.cs
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/bundle/InventoryManagementSystem.styles.css
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/scopedcss/projectbundle/InventoryManagementSystem.bundle.scp.css
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mk6cf3y184-2sfo5nryxz.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/8lg1i8t2om-61n19gt1b8.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/17ds7rdlmc-xtxxf3hu2r.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nxgi9bufh3-t1cqhe9u97.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/mnyfzcp33h-c2jlpeoesf.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7o4551en7v-sejl45xvog.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1mxdtqb0ei-aexeepp0ev.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/qegjxzptq1-xvp3kq03qx.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tzo4s4clck-ausgxo2sd3.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0rdnw94qd3-22vffe00uq.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/nido4lpen9-cosvhxvwiu.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/liuspb38so-qesaa3a1fm.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/j428xmqir2-fvhpjtyr6v.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3zv4njj3gb-tmc1g35s3z.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/58hg9b858c-fsbi9cje9m.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/4k6dkmvhpf-rxsg74s51o.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/i133tt6r4j-ee0r1s7dh0.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/zdockv62cl-q9ht133ko3.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lqha64csbd-jd9uben2k1.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1rlgiibur3-gye83jo8yx.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bcl21kjear-r4e9w2rdcm.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bogegg2sgp-wl58j5mj3v.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/x7h9f3o10j-c2oey78nd0.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/t9klq44nsc-d4r6k3f320.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/0ucusx7rr0-j5mq2jizvt.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/bgd0x5ekbk-keugtjm085.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/jesu3p6kbo-nvvlpmu67g.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/u6uvp4f253-zub09dkrxp.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l7h5a7tp39-pj5nd1wqec.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/3tf40obk2m-43atpzeawx.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5ftlh7hm8o-v0zj4ognzu.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/vn9y2lonb4-ynyaa8k90p.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s0sxcrpus8-hrwsygsryq.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/l4okmbqekp-c63t5i9ira.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lrtd4xn6bg-ft3s53vfgj.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/rb0vmvlnys-4094rpi4f9.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ylj7tsrp31-6pdc2jztkx.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/cndv09ifug-hd3gran6i8.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5fnywhxbgs-iovd86k7lj.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/iry6kzjzs2-ltid2c489k.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ry2prcaqx4-kbrnm935zg.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/1erig57sso-8vyfqsqgz1.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ejnwvc75ei-y7v9cxd14o.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ro742naz6m-u9q1upor1n.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/s2hn10xuam-h1s4sie4z3.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/dc22gihzk3-4d85u1mtcx.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/df0o2wf8s8-0j3bgjxly4.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/n40c5g916z-03hjc8e09r.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/441moowopu-48y08845bh.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/pm74k3s6g6-356vix0kms.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/7a2euskjak-83jwlth58m.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/9kwje7ryei-mrlpezrjn3.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/sbyjy4i5e4-worgj0nhwm.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/lvv3zd77ek-gk0pw8i4co.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/6vuqu3jk4i-x0q3zqp4vz.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/207aytwnqz-d6nrnj6jjx.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z57dne9gla-m9qm4tazc0.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/xqyuud7c5z-ttgo8qnofa.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/ltvapk9dx6-jjsuc0puko.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/p4wy4sud35-9vr69e8ynj.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/fw0g35eywu-87fc7y1x7t.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/tjrls2hvfg-mlv21k5csn.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/5pdjfu7djo-j4qcm5s3rp.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/compressed/z0qg9z5efz-j4qcm5s3rp.gz
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.development.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.build.InventoryManagementSystem.props
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.InventoryManagementSystem.props
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.InventoryManagementSystem.props
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/Inventor.EBF2E7CF.Up2Date
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/refint/InventoryManagementSystem.dll
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.pdb
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/InventoryManagementSystem.genruntimeconfig.cache
+/Users/hello/Downloads/2139/Assignment_2139/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net9.0/ref/InventoryManagementSystem.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\appsettings.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.staticwebassets.runtime.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.staticwebassets.endpoints.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.exe
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.deps.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.runtimeconfig.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.pdb
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Humanizer.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Npgsql.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.RazorAssemblyInfo.cache
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.RazorAssemblyInfo.cs
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.sourcelink.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\scopedcss\bundle\InventoryManagementSystem.styles.css
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\scopedcss\projectbundle\InventoryManagementSystem.bundle.scp.css
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\mk6cf3y184-2sfo5nryxz.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\8lg1i8t2om-61n19gt1b8.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\o6yv5gtsqn-pumlon4ck0.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\zwyoyxndks-4eeuwvkwhs.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\i3oml653z6-okrpbtkh42.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\17ds7rdlmc-xtxxf3hu2r.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\nxgi9bufh3-t1cqhe9u97.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\mnyfzcp33h-c2jlpeoesf.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\7o4551en7v-sejl45xvog.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\1mxdtqb0ei-aexeepp0ev.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\qegjxzptq1-xvp3kq03qx.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\tzo4s4clck-ausgxo2sd3.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\0rdnw94qd3-22vffe00uq.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\nido4lpen9-cosvhxvwiu.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\liuspb38so-qesaa3a1fm.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\j428xmqir2-fvhpjtyr6v.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\3zv4njj3gb-tmc1g35s3z.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\58hg9b858c-fsbi9cje9m.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\4k6dkmvhpf-rxsg74s51o.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\i133tt6r4j-ee0r1s7dh0.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\zdockv62cl-q9ht133ko3.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\lqha64csbd-jd9uben2k1.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\1rlgiibur3-gye83jo8yx.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\bcl21kjear-r4e9w2rdcm.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\bogegg2sgp-wl58j5mj3v.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\x7h9f3o10j-c2oey78nd0.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\t9klq44nsc-d4r6k3f320.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\0ucusx7rr0-j5mq2jizvt.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\bgd0x5ekbk-keugtjm085.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\jesu3p6kbo-nvvlpmu67g.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\u6uvp4f253-zub09dkrxp.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\l7h5a7tp39-pj5nd1wqec.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\3tf40obk2m-43atpzeawx.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\5ftlh7hm8o-v0zj4ognzu.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\vn9y2lonb4-ynyaa8k90p.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\s0sxcrpus8-hrwsygsryq.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\l4okmbqekp-c63t5i9ira.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\lrtd4xn6bg-ft3s53vfgj.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\rb0vmvlnys-4094rpi4f9.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\ylj7tsrp31-6pdc2jztkx.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\cndv09ifug-hd3gran6i8.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\5fnywhxbgs-iovd86k7lj.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\iry6kzjzs2-ltid2c489k.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\ry2prcaqx4-kbrnm935zg.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\1erig57sso-8vyfqsqgz1.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\ejnwvc75ei-y7v9cxd14o.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\ro742naz6m-u9q1upor1n.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\s2hn10xuam-h1s4sie4z3.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\dc22gihzk3-4d85u1mtcx.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\df0o2wf8s8-0j3bgjxly4.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\n40c5g916z-03hjc8e09r.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\441moowopu-48y08845bh.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\pm74k3s6g6-356vix0kms.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\7a2euskjak-83jwlth58m.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\9kwje7ryei-mrlpezrjn3.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\sbyjy4i5e4-worgj0nhwm.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\lvv3zd77ek-gk0pw8i4co.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\6vuqu3jk4i-x0q3zqp4vz.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\207aytwnqz-d6nrnj6jjx.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\z57dne9gla-m9qm4tazc0.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\xqyuud7c5z-ttgo8qnofa.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\ltvapk9dx6-jjsuc0puko.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\p4wy4sud35-9vr69e8ynj.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\fw0g35eywu-87fc7y1x7t.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\tjrls2hvfg-mlv21k5csn.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\5pdjfu7djo-1qi9vmgqhv.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\compressed\z0qg9z5efz-1qi9vmgqhv.gz
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets\msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets\msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets\msbuild.build.InventoryManagementSystem.props
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementSystem.props
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.InventoryManagementSystem.props
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\Inventor.EBF2E7CF.Up2Date
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\refint\InventoryManagementSystem.dll
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.pdb
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\radia\COMP2139\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\ref\InventoryManagementSystem.dll

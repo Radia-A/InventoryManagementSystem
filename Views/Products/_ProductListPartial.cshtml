@@ -1,0 +1,38 @@
+@model IEnumerable<InventoryManagementSystem.Models.Product>
+
+<table class="table table-bordered">
+    <thead class="table-light">
+    <tr>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        @if (User.IsInRole("Admin"))
+        {
+            <th>Actions</th>
+        }
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Category</td>
+            <td>@product.Price?.ToString("C")</td>
+            <td>@product.Quantity</td>
+            @if (User.IsInRole("Admin"))
+            {
+                <td>
+                    <button class="btn btn-sm btn-warning"
+                            data-action="edit"
+                            data-url="@Url.Action("EditModal", "Products", new { id = product.Id })">Edit</button>
+                    <button class="btn btn-sm btn-danger"
+                            data-action="delete"
+                            data-url="@Url.Action("DeleteModal", "Products", new { id = product.Id })">Delete</button>
+                </td>
+            }
+        </tr>
+    }
+    </tbody>
+</table>

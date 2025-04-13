@@ -1,0 +1,31 @@
+﻿@model InventoryManagementSystem.Models.Order
+
+<h2>Order Summary</h2>
+
+<p>Order ID: @Model.Id</p>
+<p>Guest Name: @Model.GuestName</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Product</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Subtotal</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>@item.ProductName</td>
+            <td>@item.Price.ToString("C")</td>
+            <td>@item.Quantity</td>
+            <td>@item.SubTotal.ToString("C")</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<p>Total Price: @Model.TotalPrice.ToString("C")</p>
+<a href="@Url.Action("Create", "Orders")" class="btn btn-secondary">Back to Create Order</a>

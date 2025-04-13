@@ -1,0 +1,8 @@
+@model InventoryManagementSystem.Models.Product
+
+<form id="deleteProductForm">
+    <input type="hidden" asp-for="Id" />
+    <p>Are you sure you want to delete <strong>@Model.Name</strong>?</p>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+</form>
